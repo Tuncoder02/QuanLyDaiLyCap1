@@ -1,0 +1,11 @@
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\obj\Debug\BLL.dll
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\obj\Debug\BLL.pdb
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\bin\Debug\BLL.dll
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\bin\Debug\BLL.pdb
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\bin\Debug\DAL.dll
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\bin\Debug\DTO.dll
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\bin\Debug\DAL.pdb
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\bin\Debug\DTO.pdb
+D:\C#\codehoc\PR_HeThongQuanLyDaiLyChanGaGoiDem\BLL\obj\Debug\BLL.csproj.CopyComplete
